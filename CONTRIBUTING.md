@@ -1,6 +1,6 @@
-# OnlyFast Katkı Rehberi
+# OnlyWP Katkı Rehberi
 
-OnlyFast public dokümantasyonuna katkıda bulunmak isteyenler issue veya pull request oluşturabilir.
+OnlyWP public dokümantasyonuna katkıda bulunmak isteyenler issue veya pull request oluşturabilir.
 
 ## Katkı Alanları
 
@@ -9,6 +9,6 @@ OnlyFast public dokümantasyonuna katkıda bulunmak isteyenler issue veya pull r
 - Yeni dokümantasyon önerileri
 - Hata bildirimleri
 
-OnlyFast ana kaynak kodu private olarak tutulmaktadır. Bu repository yalnızca public dokümantasyon içindir.
+OnlyWP ana kaynak kodu private olarak tutulmaktadır. Bu repository yalnızca public dokümantasyon içindir.
 
 © 2026 Atlasego
